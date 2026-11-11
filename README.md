@@ -37,7 +37,7 @@ Power BI, DAX, Power Query
 
 
 
-![Dashboard](Screenshot%202026-10-08%20002821.png)
+<img src="Screenshot%202026-10-08%20002821.png" width="700" alt="Procurement Spend Analysis Dashboard">
 
 
 
